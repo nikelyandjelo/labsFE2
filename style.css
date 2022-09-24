@@ -1,0 +1,38 @@
+.sqr{
+  margin:20px;
+}
+.squareF {
+  height: 100px;
+  width: 100px;
+  border: 3px double black;
+  border-radius: 15px;
+  background-color: #ef89368f;
+  position: static;
+
+}
+.squareS {
+  height: 100px;
+  width: 100px;
+  border: 3px double black;
+  border-radius: 15px;
+  background-color: #c99a9993;
+  position: relative;
+  left:50px;
+  top:-50px;
+}
+.squareF1{
+  height: 100px;
+  width: 100px;
+  border: 3px double black;
+  border-radius: 15px;
+  background-color: #ef89368f;
+  transform: translate(210px, -210px);
+}
+.squareS1{
+  height: 100px;
+  width: 100px;
+  border: 3px double black;
+  border-radius: 15px;
+  background-color: #c99a9993;
+  transform: translate(260px, -260px);
+}
